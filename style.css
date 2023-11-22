@@ -10,10 +10,6 @@ p{
     color:rgb(247, 169, 25)
 }
 
-x{
-    font-size :40px
-}
-
 H3{
     color:rgb(94, 6, 83)
 }
@@ -34,3 +30,6 @@ h3{
     text-align:center
 }
 
+h1{
+    text-align:center
+}
