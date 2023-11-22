@@ -7,13 +7,13 @@ strong{
 }
 
 p{
-    color:rgb(247, 169, 25)
+       color:rgb(94, 6, 83)
+}
+color:rgb(247, 169, 25)
 }
 
 H3{
-    color:rgb(94, 6, 83)
-}
-
+ 
 z{
     color:rgb(96, 178, 231)
 }
@@ -36,4 +36,8 @@ h1{
 
 p{
     font-size:20px
+}
+
+background{
+    color:rgb(6, 6, 134)
 }
